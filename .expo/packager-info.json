@@ -2,9 +2,9 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 11788,
-  "expoServerNgrokUrl": "https://bk-wyh.fatfutor.sphere.exp.direct",
-  "packagerNgrokUrl": "https://packager.bk-wyh.fatfutor.sphere.exp.direct",
-  "ngrokPid": 12588,
+  "packagerPid": 12912,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null,
   "webpackServerPort": 19006
 }
